@@ -3,6 +3,7 @@ Vehicle Routing Problem with Fixed Duration Length and Best Depot Multi-Selectio
 ### Overview
 As part of my internship at UQTR (University of Quebec at Trois-Rivières), I applied a methodology for solving the Vehicle Routing Problem (VRP)
 ### Code
+### VRP-FDL-BDMS-KNN
 
 
       import pandas as pd
