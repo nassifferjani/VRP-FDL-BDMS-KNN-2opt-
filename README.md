@@ -104,6 +104,7 @@ As part of my internship at UQTR (University of Quebec at Trois-Rivières), I ap
 
 
 
+![GERZGRHZHERZ](https://github.com/nassifferjani/VRP-FDL-BDMS-KNN-2opt-/assets/91385813/834c4395-012e-489d-bb1e-53de5911899b)
 
   
 
@@ -120,7 +121,10 @@ As part of my internship at UQTR (University of Quebec at Trois-Rivières), I ap
      print("La somme totale des distances est:", total_distance)
 
        print(optimized_tours)
+       
+![gzagrah](https://github.com/nassifferjani/VRP-FDL-BDMS-KNN-2opt-/assets/91385813/65478012-6e1d-4574-bd85-d21ebc602c35)
 
+### Result
 ![zagzagzrgrz](https://github.com/nassifferjani/VRP-FDL-BDMS-KNN-2opt-/assets/91385813/0b032a99-49d6-42ee-9a51-93b5dfb9e26d)
 
 
