@@ -82,15 +82,15 @@ As part of my internship at UQTR (University of Quebec at Trois-Rivières), I ap
  
     file_path = '/content/duration_df.xlsx'
     matrix_df = pd.read_excel(file_path, index_col=0)
-   MATRIX = matrix_df.to_dict(orient='index')
+     MATRIX = matrix_df.to_dict(orient='index')
 
     depots = ['0-0-0 ; 0-0-0','0-0-1 ; 0-0-1']
 
      MAX_TOUR_DISTANCE = 8
     Change this value to the desired maximum distance
     Storing results in the input_tours format
-  input_tours = {}
-   used_keys = set()
+     input_tours = {}
+     used_keys = set()
 
      for tour in tours:
       depot, path, cost = tour
